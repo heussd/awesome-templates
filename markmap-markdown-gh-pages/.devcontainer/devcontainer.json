@@ -1,0 +1,15 @@
+{
+  "build": { "dockerfile": "../Dockerfile" },
+  "customizations": {
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "streetsidesoftware.code-spell-checker",
+        "streetsidesoftware.code-spell-checker-german",
+        "DavidAnson.vscode-markdownlint",
+        "bierner.markdown-mermaid",
+        "gera2ld.markmap-vscode"
+      ]
+    }
+  }
+}
